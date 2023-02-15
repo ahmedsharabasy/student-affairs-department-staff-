@@ -1,0 +1,29 @@
+Enter acadimic information:
+courses:1-course_ID
+               2-course_name
+               3-course_level
+               4-professor_of_course
+
+surveys:1-course_name
+              2-professor_of_course
+              3-practical_course
+              4-course_book
+              5-questions
+              6-comment
+
+desires:1-course_name
+             2-department_name
+             
+************************************
+student registration:
+courses:1-student_ID
+               2-course_ID
+               3-course_name
+
+surveys:1-student_ID
+              2-questions
+              3-comment
+
+desires:1-student_ID
+              2-course_name
+              3-department_name
